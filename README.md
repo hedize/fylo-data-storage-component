@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [fylo Data storage](https://hedize.github.io/fylo-data-storage-component/)
+- Live Site URL: [fylo Data storage component](https://hedize.github.io/fylo-data-storage-component/)
 
 ## My process
 
